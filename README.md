@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Olá, sou o João Pedro Padilha Martins 👋
 
 Desenvolvedor de Software focado em construir aplicações web modernas, APIs de alta performance e ferramentas utilitárias para desenvolvedores. Experiência prática no ecossistema **.NET (C#)**, arquitetura relacional com **SQLite** e frontend reativo com **React & TypeScript**.
